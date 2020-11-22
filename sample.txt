@@ -1,1 +1,1 @@
-This is Sample file , with sample file we can try to rebase.
+This is Sample file. This is very useful to work on git commands.
